@@ -1,0 +1,12 @@
+[
+    { "keys": ["ctrl+i"], "command": "reindent" },
+    
+    {"keys": ["command+shift+r"], "command": "browser_refresh",
+     "args": {
+            "auto_save": true,
+            "delay": 0.3,
+            "activate_browser": false,
+            "browser_name" : "Google Chrome"
+        }
+    }
+]
